@@ -21,5 +21,3 @@ async def caption(client, message: Message):
             ]
                                            )
                       )
-    if not button_name and not FILE_NAME:
-        await message.edit(CAPTION)
