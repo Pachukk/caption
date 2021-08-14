@@ -14,10 +14,11 @@ async def caption(client, message: Message):
     FILE_NAME = bool(os.environ.get('FILE_NAME', False))
     
     if button_name and not FILE_NAME:
-        await message.edit
+        await message.edit(CAPTION,
               reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton(button_name, url=f"{button_url}")]
             ]
                                            )
                       
+                         )
