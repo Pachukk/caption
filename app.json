@@ -22,7 +22,8 @@
       "required": false
     },
     "CAPTION": {
-      "description": "Add your caption text"
+      "description": "Add your caption text",
+      "required": false
     },
     "FILE_NAME": {
       "description": "(Optional) Set this to ANYTHING if you want the filename of the medias be added in the first line of your caption",
