@@ -6,7 +6,7 @@ This bot can add a caption for any media/document sent to a channel. Just deploy
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pachuklp/ChannelAutoCaption)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pachukk/caption)
 
 
 ### Devs: 
