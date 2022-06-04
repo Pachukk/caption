@@ -1,7 +1,7 @@
 {
   "name": "ChannelAutoCaption",
   "description": "Telegram auto channel caption bot.",
-  "repository": "https://github.com/Pachuklp/ChannelAutoCaption",
+  "repository": "https://github.com/Pachukk/caption",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
